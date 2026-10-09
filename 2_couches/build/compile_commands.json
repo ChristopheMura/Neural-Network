@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/build",
+  "command": "/usr/bin/g++ -I/usr/include/python3.14 -I/usr/lib/x86_64-linux-gnu/python3-numpy/numpy/_core/include -I/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/include -I/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/matplotlib-cpp -g -std=gnu++17 -o CMakeFiles/run.dir/src/main4.cpp.o -c /home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/src/main4.cpp",
+  "file": "/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/src/main4.cpp",
+  "output": "/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/build/CMakeFiles/run.dir/src/main4.cpp.o"
+},
+{
+  "directory": "/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/build",
+  "command": "/usr/bin/g++ -I/usr/include/python3.14 -I/usr/lib/x86_64-linux-gnu/python3-numpy/numpy/_core/include -I/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/include -I/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/matplotlib-cpp -g -std=gnu++17 -o CMakeFiles/run.dir/src/mylib.cpp.o -c /home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/src/mylib.cpp",
+  "file": "/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/src/mylib.cpp",
+  "output": "/home/christophe/Documents/SEE5/IA/git/NeuralNetwork/2_couches/build/CMakeFiles/run.dir/src/mylib.cpp.o"
+}
+]
